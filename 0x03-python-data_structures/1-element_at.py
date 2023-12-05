@@ -1,13 +1,3 @@
-#!/usr/bin/python3
-# -----------------------------------------------------------
-# Python program that:
-# demonstrates how to retrieve an element from a list like in C
-#
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
-# -----------------------------------------------------------
-
-
 def element_at(my_list, idx):
     """Retrieves an element from a list like in C
 
