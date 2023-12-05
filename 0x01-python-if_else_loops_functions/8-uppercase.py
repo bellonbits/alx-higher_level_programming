@@ -1,13 +1,4 @@
 #!/usr/bin/python3
-# -----------------------------------------------------------
-# Python program that:
-# demonstrates how to print a string in uppercase
-# demonstrates how to use a function and if condition to affect program output
-#
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
-# -----------------------------------------------------------
-
 
 def uppercase(str):
     """Prints uppercase string
