@@ -1,12 +1,4 @@
 #!/usr/bin/python3
-# -----------------------------------------------------------
-# Python program that:
-# demonstrate how to print the last digit of a number stored in a variable
-# demonstrates how to use if...elif conditions to determine the program output
-#
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
-# -----------------------------------------------------------
 
 # Generate random numbers and assign it to a variable named number
 import random
