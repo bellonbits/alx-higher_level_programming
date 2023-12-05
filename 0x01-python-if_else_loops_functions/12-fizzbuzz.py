@@ -1,14 +1,4 @@
 #!/usr/bin/python3
-# -----------------------------------------------------------
-# Python program that:
-# demonstrates how to print the numbers from 1 to 100 separated by a space
-# demonstrates how to use a function, a loop and an if...elif condition to
-# affect program output
-#
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
-# -----------------------------------------------------------
-
 
 def fizzbuzz():
     """Print out numbers from 1 to 100"""
