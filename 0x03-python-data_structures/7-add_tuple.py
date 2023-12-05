@@ -1,12 +1,4 @@
 #!/usr/bin/python3
-# -----------------------------------------------------------
-# Python program that:
-# demonstrates how to use a function to adds 2 tuples
-#
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
-# -----------------------------------------------------------
-
 
 def add_tuple(tuple_a=(), tuple_b=()):
     """Adds two tuples
