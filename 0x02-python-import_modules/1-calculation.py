@@ -1,12 +1,4 @@
 #!/usr/bin/python3
-# -----------------------------------------------------------
-# Python program that:
-# demonstrates how to import functions from the file
-# calculator_1.py, does some Maths, and prints the result
-#
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
-# -----------------------------------------------------------
 
 # Import the functions: add, sub, mul, div
 from calculator_1 import add, sub, mul, div
