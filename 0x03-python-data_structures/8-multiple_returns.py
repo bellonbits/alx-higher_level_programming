@@ -1,14 +1,4 @@
 #!/usr/bin/python3
-# -----------------------------------------------------------
-# Python program that:
-# demonstrates how to return a tuple with the length of a string
-# and its first character
-#
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
-# -----------------------------------------------------------
-
-
 def multiple_returns(sentence):
     """
     Args:
