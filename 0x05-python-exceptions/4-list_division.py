@@ -1,14 +1,4 @@
 #!/usr/bin/python3
-# -----------------------------------------------------------
-# Python program that:
-# demonstrates how to divide element by element 2 lists
-# demonstrates how to use a try ... except ... finally for exception handling
-#
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
-# -----------------------------------------------------------
-
-
 def list_division(my_list_1, my_list_2, list_length):
     new_list = []
     result = 0
